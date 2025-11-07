@@ -6,6 +6,7 @@ const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {"assets/AssetManifest.bin": "693635b5258fe5f1cda720cf224f158c",
 "assets/AssetManifest.bin.json": "69a99f98c8b1fb8111c5fb961769fcd8",
 "assets/AssetManifest.json": "2efbb41d7877d10aac9d091f58ccd7b9",
+"assets/assets/Energy%2520saving%2520calculator.png": "f9faeca4b68cd4e3da8012274c3f26c0",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "c0ad29d56cfe3890223c02da3c6e0448",
 "assets/NOTICES": "caa4c309c71de1b928251252c07d0310",
@@ -27,8 +28,8 @@ const RESOURCES = {"assets/AssetManifest.bin": "693635b5258fe5f1cda720cf224f158c
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "928fbd3eef5315d78c8ff32d0de19244",
-"/": "928fbd3eef5315d78c8ff32d0de19244",
+"index.html": "abf8c50df6c70fc5dfcad5fbbadeb1ec",
+"/": "abf8c50df6c70fc5dfcad5fbbadeb1ec",
 "main.dart.js": "db906e74101e51d5bf48a148c5a41952",
 "manifest.json": "58254750c7c8e1720b8cd45f75a5a55b",
 "version.json": "3f675993a5753d18c39b161a0e8a030a"};
